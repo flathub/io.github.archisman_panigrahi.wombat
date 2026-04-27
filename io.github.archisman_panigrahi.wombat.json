@@ -50,7 +50,7 @@
         {
           "type": "git",
           "url": "https://github.com/archisman-panigrahi/wombat.git",
-          "commit": "dca7ac0508567b88eec82342321bdeca8f07e4fa"
+          "commit": "07e06cf753f6f903ecbd2d655151a3b45d8fd1e9"
         },
 
         "cargo-sources.json",
